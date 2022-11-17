@@ -15,7 +15,7 @@ function myFunction() {
         if (user) {
              var email = user.email;
              console.log(email);
-             window.open("logged.html")
+             window.open("https://www.youtube.com/")
       // ...
     } else {
       // User is signed out.
